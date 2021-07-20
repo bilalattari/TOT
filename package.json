@@ -13,7 +13,7 @@
     "excel-to-json": "^1.0.0",
     "native-base": "^2.13.5",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-native-app-intro-slider": "^3.0.0",
     "react-native-confirmation-code-field": "^4.2.0",
     "react-native-country-picker-modal": "^1.9.8",
